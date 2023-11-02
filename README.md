@@ -6,7 +6,7 @@ This project focuses on gathering key insights based on the Tableau visualizatio
 
 ### Data Sources
 
-Sales Transactions Data: The primary data used is 'Sales_Transactions_Data.csv', containing detailed information about each sale made by the company.
+Sales Transactions Data: The primary data used is 'Sales_Transactions_Data.xlsx', containing detailed information about each sale made by the company.
 
 ### Tools
 
