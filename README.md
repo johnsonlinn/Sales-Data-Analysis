@@ -16,9 +16,11 @@ Sales Transactions Data: The primary data used is 'Sales_Transactions_Data.xlsx'
 
 EDA involved exploring the sales data to answer key questions, such as:
 
-- Which countries are the most/least profitable?
-- Which products are the most/least profitable?
+- Which countries are the most/least profitable? Why?
+- Which products are the most/least profitable? Why?
+- What is the overall sales and profits trend?
 - What are the peak sales periods?
+- What are some recommendations to improve profitability?
 
   
 
