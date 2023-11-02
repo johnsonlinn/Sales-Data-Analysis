@@ -1,7 +1,5 @@
 # Sales-Data-Analysis
 
-## Table of Contents
-
 ### Project Overview
 
 This project focuses on gathering key insights based on the Tableau visualizations and offers recommendations from the conclusions drawn.
